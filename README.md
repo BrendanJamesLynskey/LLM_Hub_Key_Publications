@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Key LLM Publications
 
 Fifty essential papers, articles and blog posts every practising LLM / agent engineer should know &mdash; from *Attention Is All You Need* to the Model Context Protocol &mdash; each with a plain-language summary, an engineer's interpretation of why it matters, and diagrams of the core idea. Grouped into ten themed presentations of five publications each.
